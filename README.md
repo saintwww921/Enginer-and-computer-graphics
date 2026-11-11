@@ -1,3 +1,3 @@
 # Этот репозиторий создан для размещения проектов по предмету "Инженерная и компьютерная графика"
 *Проекты*:
-- [Проектирование дома](https://github.com/GFroze8388/-/blob/main/projects/%D0%94%D0%BE%D0%BC/%D0%94%D0%BE%D0%BC.FCStd)
+- [Проектирование дома](https://github.com/GFroze8388/-/blob/main/projects/%D0%94%D0%BE%D0%BC/%D0%94%D0%BE%D0%BC.FCStd) (Знакомство с Draft)
